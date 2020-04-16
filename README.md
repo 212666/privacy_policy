@@ -1,4 +1,4 @@
-# privacy_policy
+# 隐私政策
 
 <div class="other-content">
     <h1>隐私政策</h1>
